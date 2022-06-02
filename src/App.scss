@@ -1,3 +1,5 @@
+
+$color: green;
 .App {
   text-align: center;
 }
@@ -35,4 +37,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.name{
+  color:gray; 
+  border:1px solid gray;
+  padding-top:5px; 
+  padding-bottom:5px;
+  width:300px;
+}
+
+.title{
+  color:yellow;
+  border-color: yellow;
+  border-style:dotted; 
+
+}
+
+h1{
+  color: red; 
 }
